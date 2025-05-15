@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/silver-lab/static/css/main.289fc4eb.css",
+    "main.js": "/silver-lab/static/js/main.44c5d84e.js",
+    "static/js/453.7bf458b6.chunk.js": "/silver-lab/static/js/453.7bf458b6.chunk.js",
+    "static/media/silver.png": "/silver-lab/static/media/silver.7ccf4da705dc00f7b52f.png",
+    "static/media/silver11.jpg": "/silver-lab/static/media/silver11.bb92ead5aeebcd66e7b4.jpg",
+    "static/media/silver10.jpg": "/silver-lab/static/media/silver10.1c1c3c3bf5e151da5324.jpg",
+    "static/media/silver14.jpg": "/silver-lab/static/media/silver14.9464897f17c30db07f71.jpg",
+    "static/media/silver13.jpg": "/silver-lab/static/media/silver13.b978efab9a8438e80088.jpg",
+    "static/media/silver15.jpg": "/silver-lab/static/media/silver15.932f07016322c17b5afa.jpg",
+    "static/media/silver12.jpg": "/silver-lab/static/media/silver12.17ec4e2641041c1d4539.jpg",
+    "static/media/cer1.jpg": "/silver-lab/static/media/cer1.c643e6291d7a8e1d7cda.jpg",
+    "static/media/cer2.jpg": "/silver-lab/static/media/cer2.11b048282a6457111932.jpg",
+    "index.html": "/silver-lab/index.html",
+    "main.289fc4eb.css.map": "/silver-lab/static/css/main.289fc4eb.css.map",
+    "main.44c5d84e.js.map": "/silver-lab/static/js/main.44c5d84e.js.map",
+    "453.7bf458b6.chunk.js.map": "/silver-lab/static/js/453.7bf458b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.289fc4eb.css",
+    "static/js/main.44c5d84e.js"
+  ]
+}
