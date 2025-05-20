@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/silver-lab/static/css/main.55dd8cc3.css",
-    "main.js": "/silver-lab/static/js/main.065c6c6d.js",
+    "main.js": "/silver-lab/static/js/main.19e64927.js",
     "static/js/453.7bf458b6.chunk.js": "/silver-lab/static/js/453.7bf458b6.chunk.js",
     "static/media/silver11.jpg": "/silver-lab/static/media/silver11.6093a1c36ec624b0c842.jpg",
     "static/media/silver.png": "/silver-lab/static/media/silver.7ccf4da705dc00f7b52f.png",
@@ -15,11 +15,11 @@
     "static/media/cer2.jpg": "/silver-lab/static/media/cer2.11b048282a6457111932.jpg",
     "index.html": "/silver-lab/index.html",
     "main.55dd8cc3.css.map": "/silver-lab/static/css/main.55dd8cc3.css.map",
-    "main.065c6c6d.js.map": "/silver-lab/static/js/main.065c6c6d.js.map",
+    "main.19e64927.js.map": "/silver-lab/static/js/main.19e64927.js.map",
     "453.7bf458b6.chunk.js.map": "/silver-lab/static/js/453.7bf458b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55dd8cc3.css",
-    "static/js/main.065c6c6d.js"
+    "static/js/main.19e64927.js"
   ]
 }
