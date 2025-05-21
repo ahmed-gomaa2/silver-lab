@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/silver-lab/static/css/main.fa0712ab.css",
-    "main.js": "/silver-lab/static/js/main.be74aeef.js",
+    "main.css": "/silver-lab/static/css/main.4514d821.css",
+    "main.js": "/silver-lab/static/js/main.ea43d774.js",
     "static/js/453.7bf458b6.chunk.js": "/silver-lab/static/js/453.7bf458b6.chunk.js",
+    "static/media/review1.jpg": "/silver-lab/static/media/review1.e76cbcd92800dabc2616.jpg",
+    "static/media/review4.jpg": "/silver-lab/static/media/review4.ed4d9703305f79394753.jpg",
+    "static/media/review2.jpg": "/silver-lab/static/media/review2.0cfc82ec19affdf9e465.jpg",
+    "static/media/review6.jpg": "/silver-lab/static/media/review6.d74dcbfb099ebb3c8f3e.jpg",
+    "static/media/review3.jpg": "/silver-lab/static/media/review3.ab458399f4417db5a314.jpg",
     "static/media/silver11.jpg": "/silver-lab/static/media/silver11.6093a1c36ec624b0c842.jpg",
     "static/media/silver.png": "/silver-lab/static/media/silver.7ccf4da705dc00f7b52f.png",
     "static/media/silver10.jpg": "/silver-lab/static/media/silver10.1c1c3c3bf5e151da5324.jpg",
@@ -14,12 +19,12 @@
     "static/media/cer1.jpg": "/silver-lab/static/media/cer1.c643e6291d7a8e1d7cda.jpg",
     "static/media/cer2.jpg": "/silver-lab/static/media/cer2.11b048282a6457111932.jpg",
     "index.html": "/silver-lab/index.html",
-    "main.fa0712ab.css.map": "/silver-lab/static/css/main.fa0712ab.css.map",
-    "main.be74aeef.js.map": "/silver-lab/static/js/main.be74aeef.js.map",
+    "main.4514d821.css.map": "/silver-lab/static/css/main.4514d821.css.map",
+    "main.ea43d774.js.map": "/silver-lab/static/js/main.ea43d774.js.map",
     "453.7bf458b6.chunk.js.map": "/silver-lab/static/js/453.7bf458b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa0712ab.css",
-    "static/js/main.be74aeef.js"
+    "static/css/main.4514d821.css",
+    "static/js/main.ea43d774.js"
   ]
 }
