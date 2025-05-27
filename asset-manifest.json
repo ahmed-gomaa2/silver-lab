@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/silver-lab/static/css/main.bd1e5499.css",
-    "main.js": "/silver-lab/static/js/main.7a6b3da2.js",
+    "main.css": "/silver-lab/static/css/main.183ac264.css",
+    "main.js": "/silver-lab/static/js/main.acc8e197.js",
     "static/js/453.7bf458b6.chunk.js": "/silver-lab/static/js/453.7bf458b6.chunk.js",
     "static/media/review1.jpg": "/silver-lab/static/media/review1.e76cbcd92800dabc2616.jpg",
     "static/media/review4.jpg": "/silver-lab/static/media/review4.ed4d9703305f79394753.jpg",
@@ -15,16 +15,16 @@
     "static/media/silver13.jpg": "/silver-lab/static/media/silver13.b978efab9a8438e80088.jpg",
     "static/media/silver15.jpg": "/silver-lab/static/media/silver15.932f07016322c17b5afa.jpg",
     "static/media/silver12.jpg": "/silver-lab/static/media/silver12.17ec4e2641041c1d4539.jpg",
-    "static/media/graph.jpg": "/silver-lab/static/media/graph.bd77aa387246fe2a7281.jpg",
+    "static/media/graph.jpg": "/silver-lab/static/media/graph.bc490895d0df5914e4eb.jpg",
     "static/media/cer1.jpg": "/silver-lab/static/media/cer1.c643e6291d7a8e1d7cda.jpg",
     "static/media/cer2.jpg": "/silver-lab/static/media/cer2.11b048282a6457111932.jpg",
     "index.html": "/silver-lab/index.html",
-    "main.bd1e5499.css.map": "/silver-lab/static/css/main.bd1e5499.css.map",
-    "main.7a6b3da2.js.map": "/silver-lab/static/js/main.7a6b3da2.js.map",
+    "main.183ac264.css.map": "/silver-lab/static/css/main.183ac264.css.map",
+    "main.acc8e197.js.map": "/silver-lab/static/js/main.acc8e197.js.map",
     "453.7bf458b6.chunk.js.map": "/silver-lab/static/js/453.7bf458b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd1e5499.css",
-    "static/js/main.7a6b3da2.js"
+    "static/css/main.183ac264.css",
+    "static/js/main.acc8e197.js"
   ]
 }
